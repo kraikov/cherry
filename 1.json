@@ -1,0 +1,27 @@
+{
+  "merkleRoot": "0xa9e751322a6448bcba1b192b04dd38406d67467d7d56a029721cfba6522a1ec0",
+  "totalTokens": "7f0e10af47c1c6fffff",
+  "claims": {
+    "0x578c86b36a7694d4eafc88c4ac8efb369b5317a8": {
+      "index": 0,
+      "amount": "3bea8f2a2286d3b4eb7",
+      "proof": ["0x902222ae79ea2e4d07cb6881d3647007ca06717e5f3200442e6394271e3cda6b"]
+    },
+    "0x9a54cb6a479023658cea01425e8035e4df93f925": {
+      "index": 1,
+      "amount": "418d3ddeb8f02f398bc",
+      "proof": [
+        "0xa5169183e9dbd250388be05d7b473af57e13d9ac01df32ea8e51e3df047954ff",
+        "0xc6283463ab65408024ff6354733c4bb96bbaa416a63307816f63c3489785ee24"
+      ]
+    },
+    "0x3f429e2212718a717bd7f9e83ca47dab7956447b": {
+      "index": 2,
+      "amount": "19643a66c4ac41188c",
+      "proof": [
+        "0x1d71dc46daa11682476ca38b9d2605f58a54d1453ecee6c39ee87716e0196ab6",
+        "0xc6283463ab65408024ff6354733c4bb96bbaa416a63307816f63c3489785ee24"
+      ]
+    }
+  }
+}
